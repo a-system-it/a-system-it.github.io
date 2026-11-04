@@ -2,7 +2,7 @@
 
 Портфолио: приложения, ИИ и интеграции.
 
-Сайт: https://kostya523.github.io/
+Сайт: https://a-system-it.github.io/
 
 Статический HTML/CSS/JavaScript. Сборка и серверная часть не требуются.
 GitHub Pages: ветка `main`, каталог `/ (root)`.
