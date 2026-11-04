@@ -50,7 +50,7 @@
 /* Yandex Go: yellow app icon, original wordmark */
 .brand-yandex-go{gap:12px;min-height:40px}.brand-yandex-go img{background:transparent;padding:0;border-radius:0}.brand-yandex-go .yandex-go-icon{width:40px;height:40px;flex:0 0 40px}@media(max-width:700px){.brand-yandex-go .yandex-go-icon{width:36px;height:36px;flex-basis:36px}}
 
-.brand-reels{display:inline-flex;width:max-content;max-width:100%;height:auto;min-height:56px;padding:10px 16px;border-radius:14px;background:linear-gradient(120deg,#ff6a00 0%,#f60938 32%,#eb38cc 70%,#a640ee 100%);color:#fff;gap:10px;box-shadow:0 5px 16px #d92e7d19}.brand-reels svg{width:34px;height:34px;filter:drop-shadow(0 1px 1px #80295840)}.brand-reels span{color:#fff;font-size:29px;font-weight:500;letter-spacing:-.035em;text-shadow:0 1px 2px #80295840}@media(max-width:700px){.brand-reels{height:auto;min-height:52px;padding:9px 14px;border-radius:12px}.brand-reels svg{width:31px;height:31px}.brand-reels span{font-size:27px}}
+.brand-reels{display:flex;width:max-content;max-width:100%;height:auto;min-height:56px;padding:10px 16px;border-radius:14px;background:linear-gradient(120deg,#ff6a00 0%,#f60938 32%,#eb38cc 70%,#a640ee 100%);color:#fff;gap:10px;box-shadow:0 5px 16px #d92e7d19}.brand-reels svg{width:34px;height:34px;filter:drop-shadow(0 1px 1px #80295840)}.brand-reels span{color:#fff;font-size:29px;font-weight:500;letter-spacing:-.035em;text-shadow:0 1px 2px #80295840}@media(max-width:700px){.brand-reels{height:auto;min-height:52px;padding:9px 14px;border-radius:12px}.brand-reels svg{width:31px;height:31px}.brand-reels span{font-size:27px}}
 
 /* Keep space for the checkmark, including the last item. */
 .story-capabilities li,.story-capabilities li:last-child{padding-left:32px}
